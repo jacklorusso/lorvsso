@@ -1,4 +1,11 @@
-### Hi there 👋
+# Jack Lo Russo — designer & engineer
+
+**now**
+
+- 💼 Working as software engineer on the [Design Systems team](https://atlassian.design) at [Atlassian](https://www.atlassian.com/)
+- 🌱 On a journey to learn Swift — partly because I like the idea of my side projects feeling very different to my work
+- 📝 Trying to build more writing into my daily practice. I've thrown up some notes at [jacklorusso.com](https://jacklorusso.com/) if you want to poke around
+
 
 <!--
 **lol-russo/lol-russo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
