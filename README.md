@@ -13,7 +13,7 @@
 - Being a hybrid designer/engineer
 - Learning to code or coming from a non-traditional background into software engineering (always happy to help folks!)
 
-## 🐦 Reach me on Twitter [@lol_russo](https://twitter.com/lol_russo))
+## 🐦 Reach me on Twitter [@lol_russo](https://twitter.com/lol_russo)
 
 Pronouns: he/him
 
