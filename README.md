@@ -9,7 +9,7 @@ Software engineer on the [Design Systems team](https://atlassian.design) at [Atl
 - Being a hybrid designer/engineer
 - Learning to code or coming from a non-traditional background into software engineering (always happy to help folks!)
 
-### @ me on Twitter [@lol_russo](https://twitter.com/lol_russo)
+### @ me on Twitter [@lorvsso](https://twitter.com/lorvsso)
 
 <!--
 **lol-russo/lol-russo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
