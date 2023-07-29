@@ -1,6 +1,6 @@
 # Jack Lo Russo — designer & engineer
 
-Software engineer on the [Design Systems team](https://atlassian.design) at [Atlassian](https://www.atlassian.com/)
+Currently working on the [Atlassian Design System](https://atlassian.design)
 
 ## 💬 Ask me about
 
@@ -9,7 +9,7 @@ Software engineer on the [Design Systems team](https://atlassian.design) at [Atl
 - Being a hybrid designer/engineer
 - Learning to code or coming from a non-traditional background into software engineering (always happy to help folks!)
 
-### @ me on Twitter [@lorvsso](https://twitter.com/lorvsso)
+### @ me on Bluesky [@jacklorusso.com](https://bsky.app/profile/jacklorusso.com)
 
 <!--
 **lol-russo/lol-russo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
